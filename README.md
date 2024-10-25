@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Abhilash Kumar Palem 👋
+
+I'm an iOS Developer with a passion for building high-quality, user-friendly applications. With 10+ years of experience in iOS development, I enjoy turning complex problems into simple, beautiful code.
+
+## 🚀 Skills
+
+- **Languages**: Swift, Objective-C, JavaScript
+- **Frameworks**: UIKit, SwiftUI, Combine, CoreData, SwiftData, Concurrency
+- **Tools**: Xcode, Git, CocoaPods, Fastlane
+- **Methodologies**: Agile, Scrum, TDD
 
 <!--
 **AbhilashPalem258/AbhilashPalem258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
