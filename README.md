@@ -1,13 +1,12 @@
 # Hi there, I'm Abhilash Kumar Palem 👋
 
-I'm an iOS Developer with a passion for building high-quality, user-friendly applications. With 10+ years of experience in iOS development, I enjoy turning complex problems into simple, beautiful code.
-
-👩‍💻 I am always open to collaborating on projects and innovative ideas.
-⚡ Reach out to me at palem.abhilashkumar@gmail.com
+- I'm an iOS Developer with a passion for building high-quality, user-friendly applications. With 10+ years of experience in iOS development, I enjoy turning complex problems into simple, beautiful code.
+- 👩‍💻 I am always open to collaborating on projects and innovative ideas.
+- ⚡ Reach out to me at palem.abhilashkumar@gmail.com
 
 ## 🚀 Skills
 
-- **Languages**: Swift, Objective-C, JavaScript
+- **Languages**: Swift, Objective-C, JavaScript, Python, Ruby
 - **Frameworks**: UIKit, SwiftUI, Combine, CoreData, SwiftData, Concurrency
 - **Tools**: Xcode, Git, CocoaPods, Swift Package Manager, Fastlane
 - **Methodologies**: Agile, Scrum, TDD
