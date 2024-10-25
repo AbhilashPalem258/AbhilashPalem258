@@ -6,7 +6,7 @@ I'm an iOS Developer with a passion for building high-quality, user-friendly app
 
 - **Languages**: Swift, Objective-C, JavaScript
 - **Frameworks**: UIKit, SwiftUI, Combine, CoreData, SwiftData, Concurrency
-- **Tools**: Xcode, Git, CocoaPods, Fastlane
+- **Tools**: Xcode, Git, CocoaPods, Swift Package Manager, Fastlane
 - **Methodologies**: Agile, Scrum, TDD
 
 <!--
