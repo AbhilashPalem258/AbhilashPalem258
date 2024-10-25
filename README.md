@@ -10,6 +10,8 @@
 - **Frameworks**: UIKit, SwiftUI, Combine, CoreData, SwiftData, Concurrency
 - **Tools**: Xcode, Git, CocoaPods, Swift Package Manager, Fastlane
 - **Methodologies**: Agile, Scrum, TDD
+- **Design:** Familiar with principles of UX/UI design
+- **Architecture:** MVVM + C, MVP, VIPER, CLEAN
 
 <!--
 **AbhilashPalem258/AbhilashPalem258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
