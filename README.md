@@ -13,6 +13,14 @@
 - **Design:** Familiar with principles of UX/UI design
 - **Architecture:** MVVM + C, MVP, VIPER, CLEAN
 
+## 📫 Connect with Me
+
+- **LinkedIn:** [Abhilash Palem](https://www.linkedin.com/in/abhilash-kumar-palem-5b9889135/)
+
+## 💬 Let’s Collaborate!
+
+I’m always open to discussing new projects, ideas, or opportunities. Feel free to reach out!
+
 <!--
 **AbhilashPalem258/AbhilashPalem258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
